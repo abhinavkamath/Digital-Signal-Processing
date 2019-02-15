@@ -1,3 +1,5 @@
+% On point
+
 % eec201_final_project.m
 % Authors: Abhinav Kamath, Mason del Rosario
 % Winter 2019
